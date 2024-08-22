@@ -1,0 +1,9 @@
+{
+	"name": "Manu-ADF-Learnings-GitConfig",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "43f690dc-2afc-40d1-b591-178e2d2a8a66",
+		"tenantId": "44aa36d4-8225-4586-b015-8601b4fadb35"
+	}
+}
