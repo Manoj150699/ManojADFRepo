@@ -1,5 +1,5 @@
 {
-	"name": "DelimitedText1",
+	"name": "OutputDS",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "LinkedServiceblobStorage",
@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"folderPath": "output",
+				"folderPath": "outputgit",
 				"container": "adfdemo"
 			},
 			"columnDelimiter": ",",
